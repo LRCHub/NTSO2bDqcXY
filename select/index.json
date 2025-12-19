@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Tell Ur Girlfriend",
+  "base_artist": "Lay Bankz",
+  "createdAt": "2025-12-19T11:44:47.207810Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz",
+      "has_synced": true,
+      "path": "select/01_Tell_Ur_Girlfriend_Lay_Bankz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz",
+      "has_synced": true,
+      "path": "select/02_Tell_Ur_Girlfriend_Lay_Bankz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lay Bankz - Tell Ur Girlfriend (Official Audio)",
+      "artist": "Lay Bankz 🤍",
+      "has_synced": true,
+      "path": "select/03_Lay_Bankz_-_Tell_Ur_Girlfriend_(Official_Audio)_Lay_Bankz_🤍.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz 🤍",
+      "has_synced": true,
+      "path": "select/04_Tell_Ur_Girlfriend_Lay_Bankz_🤍.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz",
+      "has_synced": true,
+      "path": "select/05_Tell_Ur_Girlfriend_Lay_Bankz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz",
+      "has_synced": true,
+      "path": "select/06_Tell_Ur_Girlfriend_Lay_Bankz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lay Bankz - Tell Ur Girlfriend (Lyrics)",
+      "artist": "Vibe Music",
+      "has_synced": true,
+      "path": "select/07_Lay_Bankz_-_Tell_Ur_Girlfriend_(Lyrics)_Vibe_Music.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz",
+      "has_synced": true,
+      "path": "select/08_Tell_Ur_Girlfriend_Lay_Bankz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lay Bankz - Tell Ur Girlfriend (Official Video)",
+      "artist": "Lay Bankz 🤍",
+      "has_synced": true,
+      "path": "select/09_Lay_Bankz_-_Tell_Ur_Girlfriend_(Official_Video)_Lay_Bankz_🤍.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lay Bankz - Tell Ur Girlfriend (Lyrics)",
+      "artist": "Vibe Music",
+      "has_synced": true,
+      "path": "select/10_Lay_Bankz_-_Tell_Ur_Girlfriend_(Lyrics)_Vibe_Music.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz",
+      "has_synced": true,
+      "path": "select/11_Tell_Ur_Girlfriend_Lay_Bankz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lay Bankz - Tell Ur Girlfriend (Official Video)",
+      "artist": "Lay Bankz 🤍",
+      "has_synced": true,
+      "path": "select/12_Lay_Bankz_-_Tell_Ur_Girlfriend_(Official_Video)_Lay_Bankz_🤍.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz",
+      "has_synced": true,
+      "path": "select/13_Tell_Ur_Girlfriend_Lay_Bankz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz",
+      "has_synced": true,
+      "path": "select/14_Tell_Ur_Girlfriend_Lay_Bankz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tell Ur Girlfriend",
+      "artist": "Lay Bankz",
+      "has_synced": false,
+      "path": "select/pl_01_Tell_Ur_Girlfriend_Lay_Bankz.txt"
+    }
+  ]
+}
